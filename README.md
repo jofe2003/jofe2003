@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jofe2003&hide_border=true&hide_title=true&theme=transparent" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jofe2003&hide_rank=true&hide_border=true&hide_title=true&theme=transparent" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jofe2003&layout=compact&hide_border=true&hide_title=true&theme=transparent" />
 </p>
 
